@@ -1,0 +1,15 @@
+1, CPU utiization
+2, Interrupt pressure
+3,  Multiple thread and interrcommunciation versus multiprocess communciation
+4, System calls and execution time log
+5, degiubbing information integration
+6, Memory utilization and peak of it
+7, Brief system config for eg type of OS and system shall be appended
+8, Results with Dynamic and static library linking
+
+
+In top level,
+1. Summary of code in the system with ctags
+2. Build log possibiltiy integration
+3. build for debug and release
+3. experiments on multithreading with kernel thread mapping and UNIX/TCP sockets
